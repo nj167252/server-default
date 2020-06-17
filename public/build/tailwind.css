@@ -422,6 +422,10 @@ svg {
   opacity: 1;
 }
 
+.p-5 {
+  padding: 1.25rem;
+}
+
 .text-gray-200 {
   --text-opacity: 1;
   color: #edf2f7;
